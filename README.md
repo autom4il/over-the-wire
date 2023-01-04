@@ -1,3 +1,3 @@
 # wargames
 
-My solution to the wargames challenges.
+My solutions to the wargames challenges.
