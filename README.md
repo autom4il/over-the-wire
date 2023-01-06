@@ -1,3 +1,3 @@
 # Over the Wire
 
-My solutions to the wargames challenges.
+My solutions to the OtW challenges.
