@@ -35,6 +35,7 @@ if __name__ == "__main__":
 
     # credentilas for basic auth
     user = "natas15"
+    # Insert the password from the previous level
     password = ""
 
     # True condition
