@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
     # credentilas for basic auth
     user = "natas15"
-    password = "TTkaI7AWG4iDERztBcEyKV7kRXH1EZRB"
+    password = ""
 
     # True condition
     user_exists = "This user exists."
