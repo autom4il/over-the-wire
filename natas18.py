@@ -23,8 +23,6 @@ def extract_password(url, chars, auth, proxies):
             sys.exit(1)
     print("\n")
 
-
-
 if __name__ == "__main__":
 
     # set of chars to discover the password
